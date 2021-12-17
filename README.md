@@ -2,6 +2,7 @@
 - 👀 I’m interested in configuration management, software engineering, and development.
 - 🌱 I’m currently learning software engineering, Git, Github, Java, and C++.
 - 💞️ I’m currently not looking to collaborate on any projects.
+- 📫 How to reach me ekbrinzer@live.com.
 
 <!---
 ekbrinzer/ekbrinzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
